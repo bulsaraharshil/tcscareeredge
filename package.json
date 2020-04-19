@@ -1,9 +1,9 @@
 {
   "name": "Soft skills development course by TCS Ion",
   "private": true,
-  "description": "A blog about information of the coursen",
+  "description": "A blog about information of the course",
   "version": "0.1.0",
-  "author": "Harshil Bulsara <bulsaraharshil@gmail.com>",
+  "author": "Harshil Bulsara<bulsaraharshil@gmail.com>",
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   },
